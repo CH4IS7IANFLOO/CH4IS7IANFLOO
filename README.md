@@ -1,65 +1,94 @@
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+  <img width="160" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png" alt="avatar">
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<h1 align="center">Hola, ¡Fellow &lt;Developers /&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" /></h1>
+
+<p align="center">
+  <img alt="Profile views" src="https://visitor-badge.glitch.me/badge?page_id=TU_USUARIO.TU_USUARIO" />
 </p>
 
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-
-
-<div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
+<div align="center">
+  <strong>¡Hola! Soy Christian (o tu nombre). Gracias por visitar mi perfil 😊</strong>
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+## 🔎 Sobre mí
+<img width="220" align="right" alt="Github header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+- 🔭 Actualmente: **Estudiante**  
+- 🌱 Aprendiendo: **Git, Java y GitHub**  
+- 👯 Busco colaborar en: **Proyectos interesantes**  
+- 💬 Pregúntame sobre: **SQL, Java, C#, JavaScript**  
+- ⚡ Fun fact: Me encantan los girasoles 🌻
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+---
 
+## 🛠️ Habilidades (aprox. nivel)
+> La mayoría de las habilidades aparecen con **70%** como pediste.
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-70%25-41B883?style=for-the-badge&logo=vue.js" alt="Vue 70"/>
+  <img src="https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python" alt="Python 70"/>
+  <img src="https://img.shields.io/badge/HTML-70%25-E34F26?style=for-the-badge&logo=html5" alt="HTML 70"/>
+  <img src="https://img.shields.io/badge/CSS-70%25-1572B6?style=for-the-badge&logo=css3" alt="CSS 70"/>
+  <img src="https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript" alt="JS 70"/>
+  <img src="https://img.shields.io/badge/Java-70%25-007396?style=for-the-badge&logo=java" alt="Java 70"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-70%25-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++ 70"/>
+  <img src="https://img.shields.io/badge/C%23-70%25-239120?style=for-the-badge&logo=c-sharp" alt="C# 70"/>
+  <img src="https://img.shields.io/badge/SQL-70%25-003B57?style=for-the-badge&logo=mysql" alt="SQL 70"/>
+  <img src="https://img.shields.io/badge/PHP-70%25-777BB4?style=for-the-badge&logo=php" alt="PHP 70"/>
+  <img src="https://img.shields.io/badge/React-70%25-61DAFB?style=for-the-badge&logo=react" alt="React 70"/>
+  <img src="https://img.shields.io/badge/Node.js-70%25-339933?style=for-the-badge&logo=node.js" alt="Node 70"/>
+  <img src="https://img.shields.io/badge/PyTorch-70%25-EE4C2C?style=for-the-badge&logo=pytorch" alt="PyTorch 70"/>
+  <img src="https://img.shields.io/badge/SQLite-70%25-07405E?style=for-the-badge&logo=sqlite" alt="SQLite 70"/>
+</p>
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+> Si quieres ajustar porcentajes por cada tecnología, dímelos y lo edito.
 
+---
+
+## 🔭 Proyectos y métricas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=TU_USUARIO&theme=tokyonight" alt="activity graph" />
+</p>
+
+---
+
+## 📫 Conectemos
+<p>
+  <a href="https://www.linkedin.com/in/tu-perfil"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="28" /></a>
+  <a href="https://twitter.com/tu_usuario"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" width="28" /></a>
+  <a href="https://medium.com/@tu_usuario"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" width="28" /></a>
+  <a href="https://tu-portfolio.com"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" width="28" /></a>
+  <a href="https://github.com/TU_USUARIO"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="28" /></a>
+</p>
+
+---
+
+## 😂 Para romper el hielo
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+---
+
+**Créditos:** Basado en el README de Aditya Deshmukh y tu versión original.  
+**Última actualización:** 08/08/2025
+
+---
+
+### ¿Quieres que haga esto también?
+- Puedo dejar los porcentajes personalizados por tecnología.  
+- Puedo añadir una **sección de proyectos destacados** con mini-descripciones y link a repositorios.  
+- Puedo limpiar/optimizar las rutas de las imágenes (pasar imágenes locales o usar tu avatar real).  
+
+Dime qué prefieres y lo adapto :) 🚀
+
 
 
 <br>
