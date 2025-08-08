@@ -1,22 +1,12 @@
-<p align="center">
-  <img width="160" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png" alt="avatar">
-</p>
-
 <h1 align="center">Hola, ¡Fellow &lt;Developers /&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" /></h1>
 
-<p align="center">
-  <img alt="Profile views" src="https://visitor-badge.glitch.me/badge?page_id=TU_USUARIO.TU_USUARIO" />
-</p>
-
 <div align="center">
-  <strong>¡Hola! Soy Christian (o tu nombre). Gracias por visitar mi perfil 😊</strong>
+  <strong>¡Hola! Soy <span style="color:crimson">Christian</span> 👋 — gracias por visitar mi perfil 😊</strong>
 </div>
 
 ---
 
 ## 🔎 Sobre mí
-<img width="220" align="right" alt="Github header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 🔭 Actualmente: **Estudiante**  
 - 🌱 Aprendiendo: **Git, Java y GitHub**  
 - 👯 Busco colaborar en: **Proyectos interesantes**  
@@ -25,76 +15,150 @@
 
 ---
 
-## 🛠️ Habilidades (aprox. nivel)
-> La mayoría de las habilidades aparecen con **70%** como pediste.
+## 🎮 Habilidades 
 
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-70%25-41B883?style=for-the-badge&logo=vue.js" alt="Vue 70"/>
-  <img src="https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python" alt="Python 70"/>
-  <img src="https://img.shields.io/badge/HTML-70%25-E34F26?style=for-the-badge&logo=html5" alt="HTML 70"/>
-  <img src="https://img.shields.io/badge/CSS-70%25-1572B6?style=for-the-badge&logo=css3" alt="CSS 70"/>
-  <img src="https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript" alt="JS 70"/>
-  <img src="https://img.shields.io/badge/Java-70%25-007396?style=for-the-badge&logo=java" alt="Java 70"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-70%25-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++ 70"/>
-  <img src="https://img.shields.io/badge/C%23-70%25-239120?style=for-the-badge&logo=c-sharp" alt="C# 70"/>
-  <img src="https://img.shields.io/badge/SQL-70%25-003B57?style=for-the-badge&logo=mysql" alt="SQL 70"/>
-  <img src="https://img.shields.io/badge/PHP-70%25-777BB4?style=for-the-badge&logo=php" alt="PHP 70"/>
-  <img src="https://img.shields.io/badge/React-70%25-61DAFB?style=for-the-badge&logo=react" alt="React 70"/>
-  <img src="https://img.shields.io/badge/Node.js-70%25-339933?style=for-the-badge&logo=node.js" alt="Node 70"/>
-  <img src="https://img.shields.io/badge/PyTorch-70%25-EE4C2C?style=for-the-badge&logo=pytorch" alt="PyTorch 70"/>
-  <img src="https://img.shields.io/badge/SQLite-70%25-07405E?style=for-the-badge&logo=sqlite" alt="SQLite 70"/>
-</p>
+<table align="center">
+  <tr align="center">
+    <td>
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg" width="56"/><br/>
+      **Vue.js**<br/>
+      ▰▰▰▰▱ 70%<br/>
+      <img src="https://img.shields.io/badge/Level-70%25-41B883?style=for-the-badge&logo=vue.js" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" width="56"/><br/>
+      **Python**<br/>
+      ▰▰▰▰▱ 70%<br/>
+      <img src="https://img.shields.io/badge/Level-70%25-3776AB?style=for-the-badge&logo=python" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="56"/><br/>
+      **HTML**<br/>
+      ▰▰▰▰▱ 70%<br/>
+      <img src="https://img.shields.io/badge/Level-70%25-E34F26?style=for-the-badge&logo=html5" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="56"/><br/>
+      **CSS**<br/>
+      ▰▰▰▰▱ 70%<br/>
+      <img src="https://img.shields.io/badge/Level-70%25-1572B6?style=for-the-badge&logo=css3" />
+    </td>
+  </tr>
 
-> Si quieres ajustar porcentajes por cada tecnología, dímelos y lo edito.
+  <tr align="center">
+    <td>
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" width="56"/><br/>
+      **JavaScript**<br/>
+      ▰▰▰▰▱ 70%<br/>
+      <img src="https://img.shields.io/badge/Level-70%25-F7DF1E?style=for-the-badge&logo=javascript" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" width="56"/><br/>
+      **Java**<br/>
+      ▰▰▰▰▱ 70%<br/>
+      <img src="https://img.shields.io/badge/Level-70%25-007396?style=for-the-badge&logo=java" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" width="56"/><br/>
+      **C++**<br/>
+      ▰▰▰▰▱ 70%<br/>
+      <img src="https://img.shields.io/badge/Level-70%25-00599C?style=for-the-badge&logo=c%2B%2B" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" width="56"/><br/>
+      **C#**<br/>
+      ▰▰▰▰▱ 70%<br/>
+      <img src="https://img.shields.io/badge/Level-70%25-239120?style=for-the-badge&logo=c-sharp" />
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td>
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg" width="56"/><br/>
+      **SQL / SQLite**<br/>
+      ▰▰▰▰▱ 70%<br/>
+      <img src="https://img.shields.io/badge/Level-70%25-07405E?style=for-the-badge&logo=sqlite" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg" width="56"/><br/>
+      **PyTorch**<br/>
+      ▰▰▰▰▱ 70%<br/>
+      <img src="https://img.shields.io/badge/Level-70%25-EE4C2C?style=for-the-badge&logo=pytorch" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg" width="56"/><br/>
+      **PHP**<br/>
+      ▰▰▰▰▱ 70%<br/>
+      <img src="https://img.shields.io/badge/Level-70%25-777BB4?style=for-the-badge&logo=php" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" width="56"/><br/>
+      **React**<br/>
+      ▰▰▰▰▱ 70%<br/>
+      <img src="https://img.shields.io/badge/Level-70%25-61DAFB?style=for-the-badge&logo=react" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔭 Proyectos y métricas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="Streak" width="48%"/>
-</p>
+---
+
+## ⚔️ Estadísticas :
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=TU_USUARIO&theme=tokyonight" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&title_color=ff0055&icon_color=00fff7&text_color=ffffff&bg_color=0d0d0d&hide_border=true&custom_title=🎮%20Stats%20de%20Jugador" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=radical&ring=00fff7&fire=ff0055&currStreakLabel=ffffff&background=0d0d0d&hide_border=true" width="48%"/>
 </p>
+
+---
+
+## 🕹️ Proyectos Completados
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TU_USUARIO&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&title_color=00fff7&text_color=ffffff&bg_color=0d0d0d&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## 📊 Proyectos Frontend + Backend
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Frontend','Backend'],datasets:[{data:[4,4],backgroundColor:['%23ff0055','%2300fff7']}]},options:{plugins:{legend:{labels:{color:'white',font:{size:16}}}},layout:{padding:20}}}" alt="Proyectos" width="350" />
+</p>
+
+---
+
+## 🚀 Barra de Progreso de Skills
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-90%25-ff0055?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-85%25-00fff7?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-f7df1e?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-75%25-61dafb?style=for-the-badge&logo=react)
+![Java](https://img.shields.io/badge/Java-70%25-e11f21?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-80%25-336791?style=for-the-badge&logo=postgresql)
+
+</div>
+
+---
+
+**🎯 Total de proyectos reales:** `4` *(Frontend + Backend FullStack)*  
+
 
 ---
 
 ## 📫 Conectemos
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/tu-perfil"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="28" /></a>
+  &nbsp;
   <a href="https://twitter.com/tu_usuario"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" width="28" /></a>
-  <a href="https://medium.com/@tu_usuario"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" width="28" /></a>
-  <a href="https://tu-portfolio.com"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" width="28" /></a>
+  &nbsp;
   <a href="https://github.com/TU_USUARIO"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="28" /></a>
+  &nbsp;
+  <a href="https://tu-portfolio.com"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" width="28" /></a>
 </p>
 
 ---
 
-## 😂 Para romper el hielo
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
-
-**Créditos:** Basado en el README de Aditya Deshmukh y tu versión original.  
 **Última actualización:** 08/08/2025
-
----
-
-### ¿Quieres que haga esto también?
-- Puedo dejar los porcentajes personalizados por tecnología.  
-- Puedo añadir una **sección de proyectos destacados** con mini-descripciones y link a repositorios.  
-- Puedo limpiar/optimizar las rutas de las imágenes (pasar imágenes locales o usar tu avatar real).  
-
-Dime qué prefieres y lo adapto :) 🚀
-
-
-
-<br>
-
-
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
-
-Last Edited on: 04/09/2021
